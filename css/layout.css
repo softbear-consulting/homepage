@@ -1,0 +1,82 @@
+.col-1,.col-2,.col-3{
+	padding-top:44px;
+	min-height:333px;
+	padding-left:30px;
+}
+
+#about .col-1{
+	width:220px;	
+	padding-right:50px;
+}
+#about .col-2{
+	width:260px;
+	padding-left:26px;
+	padding-right:34px;
+}
+
+#about .col-3{
+	width:260px;	
+}
+
+#services .col-1{
+	width:560px;	
+	padding-right:30px;
+}
+
+#services .col-2{
+	width:260px;	
+}
+
+#clients .col-1{
+	width:235px;	
+	padding-right:30px;
+}
+
+#clients .col-2{
+	width:570px;	
+}
+
+#clients .cols{
+	margin-left:-30px;
+}
+
+#clients .cols li{
+	width:170px;
+	float:left;
+	margin-left:30px;
+}
+
+#media .col-1{
+	width:870px;	
+}
+
+#media .cols{
+	margin-left:-30px;
+}
+
+#media .cols li{
+	float:left;
+	margin-left:30px;
+}
+
+#mail .col-1{
+	width:490px;
+	padding-right:20px;
+}
+
+#mail .col-2{
+	width:333px;
+}
+
+#privacy .col-1{
+	width:475px;
+	padding-right:30px;
+}
+
+#privacy .col-2{
+	width:330px;
+}
+
+#readmore .col-1{
+	width:870px;
+}
